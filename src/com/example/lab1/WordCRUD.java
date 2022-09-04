@@ -14,7 +14,7 @@ public class WordCRUD implements ICRUD {
 
 	@Override
 	public Object add() {
-		System.out.print("=> 난이도(1, 2, 3) & 새 단어 입력 : ");
+		System.out.print("\n=> 난이도(1, 2, 3) & 새 단어 입력 : ");
 		int level = s.nextInt();
 		String word = s.nextLine();
 		
@@ -27,7 +27,7 @@ public class WordCRUD implements ICRUD {
 	public void addWord() {
 		Word one = (Word)add();
 		list.add(one);
-		System.out.print("새 단어가 단어장에 추가되었습니다. ");
+		System.out.print("\n새 단어가 단어장에 추가되었습니다. \n");
 	}
 
 	@Override
