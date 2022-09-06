@@ -8,9 +8,11 @@
 
 
 ## [2. 수준별 단어 보기]
+![2. 수준별 단어 보기](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/2.%20%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%20%EB%B3%B4%EA%B8%B0.JPG)
 
 
 ## [3. 단어 검색]
+![3. 단어 검색](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/3.%20%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89.JPG)
 
 
 ## [4. 단어추가]
@@ -18,12 +20,18 @@
 
 
 ## [5. 단어 수정]
+![5. 단어 수정 1](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/5.%20%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95%201.JPG)
+![5. 단어 수정 2](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/5.%20%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95%202.JPG)
 
 
 ## [6. 단어 삭제]
+![6. 단어 삭제 1](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/6.%20%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C%201.JPG)
+![6. 단어 삭제 2](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/6.%20%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C%202.JPG)
 
 
 ## [7. 파일 저장]
+![7. 파일 저장 1](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/7.%20%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5%201.JPG)
+![7. 파일 저장 2](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/7.%20%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5%202.JPG)
 
 
 ## [0. 나가기]
