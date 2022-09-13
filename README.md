@@ -4,8 +4,9 @@
 # [기능별 스크린샷]
 
 
-## [파일 구성]
+## [파일 구성, 파일 내용]
 <img src="https://github.com/markFT39/WordMasterProject/blob/main/screenshot/%ED%8C%8C%EC%9D%BC%20%EA%B5%AC%EC%84%B1.JPG">
+<img src="https://github.com/markFT39/WordMasterProject/blob/main/screenshot/%ED%8C%8C%EC%9D%BC%20%EB%82%B4%EC%9A%A9.JPG">
 
 
 ## [1. 모든 단어보기]
