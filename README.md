@@ -5,8 +5,7 @@
 
 
 ## [1. 모든 단어보기]
-![1. 모든 단어보기](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.JPG)
-
+<img src="https://github.com/markFT39/WordMasterProject/blob/main/screenshot/1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.JPG">
 
 ## [2. 수준별 단어 보기]
 ![2. 수준별 단어 보기](https://github.com/markFT39/WordMasterProject/blob/main/screenshot/2.%20%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%20%EB%B3%B4%EA%B8%B0.JPG)
