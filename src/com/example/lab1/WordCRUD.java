@@ -49,6 +49,7 @@ public class WordCRUD implements ICRUD {
 
 	@Override
 	public void selectOne(int id) {
+		
 	}
 	
 	public void listAll() {
