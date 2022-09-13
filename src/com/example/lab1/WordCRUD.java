@@ -39,20 +39,16 @@ public class WordCRUD implements ICRUD {
 	
 	@Override
 	public int updateItem(Object obj) {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 
 	@Override
 	public int deleteItem(Object obj) {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 
 	@Override
 	public void selectOne(int id) {
-		// TODO Auto-generated method stub
-		
 	}
 	
 	public void listAll() {
