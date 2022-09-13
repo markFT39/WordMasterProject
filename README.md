@@ -4,6 +4,10 @@
 # [기능별 스크린샷]
 
 
+## [파일 구성]
+<img src="https://github.com/markFT39/WordMasterProject/blob/main/screenshot/%ED%8C%8C%EC%9D%BC%20%EA%B5%AC%EC%84%B1.JPG">
+
+
 ## [1. 모든 단어보기]
 <img src="https://github.com/markFT39/WordMasterProject/blob/main/screenshot/1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.JPG">
 
