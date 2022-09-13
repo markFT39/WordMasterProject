@@ -3,7 +3,6 @@
 2|equipment|장비, 용품
 1|pole|기둥, 장대
 1|formerly|이전에, 예전에
-1|transfer|옮기다, 이동하다
 2|executive|경영 간부, 임원
 1|assure|암심시키다, 확신시키다
 2|embarrassment|당황, 난처함
@@ -19,4 +18,13 @@
 2|eye-opener|눈이 휘둥그레질 만한
 1|graceful|우아한
 2|seagull|갈매기
-1| banana|bbㅏ nㅏ nㅏ
+1|tightly|단단히
+2|webbed|물갈퀴가 있는
+1|thoughtlessly|생각 없이
+1|discard|버리다
+1|unfortunate|불운한
+1|branch|나뭇가지
+1|trim|다듬다
+3|crouch|쪼그리고 앉다
+2|proclaim|공언하다, 선포하다
+1| banana|바나나
